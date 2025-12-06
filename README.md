@@ -2,10 +2,6 @@
 
 ## 🚀 Full-Stack Developer & AI Engineer
 
-> *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
-
-Currently weaving my web as a **Senior Software Engineer** at Blue Rabbit Group while spinning through a **Masters in Data Science** at UBC. My journey across continents - from India to Hong Kong to Vancouver - has taught me to adapt quickly and think globally.
-
 ### 🌍 About Me
 - 🔭 Currently working on AI-driven portfolio management and automated trading systems
 - 🎓 Pursuing Masters in Data Science at University of British Columbia
@@ -61,22 +57,6 @@ Currently weaving my web as a **Senior Software Engineer** at Blue Rabbit Group 
 [![ARgorithm](https://img.shields.io/badge/-ARgorithm-45B7D1?style=for-the-badge&logo=github)](https://github.com/ARgorithm)
 [![Developer Portfolio](https://img.shields.io/badge/-Developer%20Portfolio-96CEB4?style=for-the-badge&logo=github)](https://github.com/Vin-dictive/Vin-dictive.github.io)
 
-### 🎓 Education & Certifications
-
-**🎓 Masters in Data Science** - University of British Columbia *(2025 - Present)*
-**🎓 B.E. Computer Engineering** - Army Institute of Technology *(CGPA: 8.91 - First Class with Distinction)*
-
-**Recent Certifications:**
-- 🏆 IELTS Academic - Band Score 8 (CEFR C1) - 2024
-- 🏆 Python and Django Full Stack Web Developer Bootcamp - Udemy 2023
-- 🏆 Multiple Oracle Certifications (Java SE 8, WebLogic Server, OJET) - 2021
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vin-dictive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-dictive&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ### 🤝 Let's Connect!
 
