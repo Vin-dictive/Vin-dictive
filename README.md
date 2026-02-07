@@ -1,6 +1,6 @@
 # Hi there, I'm Vinay Valson! 👋
 
-## 🚀 Full-Stack Developer & AI Engineer
+## 🚀 Full-Stack Developer
 
 ### 🌍 About Me
 - 🎓 Pursuing Master of Data Science at University of British Columbia (Academic Representative | Scholarship)
